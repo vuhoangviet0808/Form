@@ -1,0 +1,33 @@
+{
+    "1": {
+        "name": "Hà Nội",
+        "quan-huyen": {
+            "1": {
+                "name": "Quận Hoàn Kiếm",
+                "xa-phuong": {
+                    "1": {"name": "Phường Hàng Bạc"},
+                    "2": {"name": "Phường Hàng Buồm"}
+                }
+            },
+            "2": {
+                "name": "Quận Ba Đình",
+                "xa-phuong": {
+                    "1": {"name": "Phường Cống Vị"},
+                    "2": {"name": "Phường Điện Biên"}
+                }
+            }
+        }
+    },
+    "2": {
+        "name": "Hồ Chí Minh",
+        "quan-huyen": {
+            "1": {
+                "name": "Quận 1",
+                "xa-phuong": {
+                    "1": {"name": "Phường Bến Nghé"},
+                    "2": {"name": "Phường Đa Kao"}
+                }
+            }
+        }
+    }
+}
